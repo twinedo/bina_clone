@@ -1,0 +1,6 @@
+API_BINA=https://api.bina.id/
+
+GET_CHAT_HISTORY=api/v1/chat
+GET_CHAT_RECEIVE_NAME=api/v1/users
+CS_BINA=https://wa.me/6281288882462
+GET_LIST_CHAT_MENTOR=api/v1/chat/listlastchatmentor

@@ -1,0 +1,8 @@
+API_BINA=https://d-api.bina.id/
+
+GET_CHAT_HISTORY=api/v1/chat
+GET_CHAT_RECEIVE_NAME=api/v1/users
+CS_BINA=https://wa.me/6281288882462
+GET_LIST_CHAT_MENTOR=api/v1/chat/listlastchatmentor
+UPLOAD_FILE=api/v1/chat/uploadFile
+UPLOAD_IMAGE=api/v1/chat/uploadImage

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "57179006350",
+    "project_id": "bina-kelola",
+    "storage_bucket": "bina-kelola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57179006350:android:e30bf93ab5b602f08bb0df",
+        "android_client_info": {
+          "package_name": "com.bina_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57179006350-8ijrsr247lp5mo2cho4jlrbnvhrqkcmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJh30VMSXTf2C35xc9sLjyvTb9lGYbQ1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57179006350-8ijrsr247lp5mo2cho4jlrbnvhrqkcmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57179006350:android:d5ddd5bd900270a88bb0df",
+        "android_client_info": {
+          "package_name": "demo.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57179006350-8ijrsr247lp5mo2cho4jlrbnvhrqkcmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJh30VMSXTf2C35xc9sLjyvTb9lGYbQ1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57179006350-8ijrsr247lp5mo2cho4jlrbnvhrqkcmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
